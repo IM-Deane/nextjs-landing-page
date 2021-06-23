@@ -1,6 +1,8 @@
 # Project: Next.js Landing Page
 
-_Current Version:_ 0.0.6
+_Current Version:_ 1.0.0
+
+# Note: The core functionality of the site has been completed. Future updates will focus on extending the template and handling any errors.
 
 # Description:
 
@@ -58,6 +60,20 @@ yarn dev
 ```
 
 # Version History:
+
+_Version 1.0.0:_
+
+Added a footer component with small site nav menu.
+
+The footer generates the menu and copyright statement based off of the data
+provided by "footer.data.js". This enables the developer to quickly modify the
+content.
+
+# Note:
+
+This version marks the end of the template's core functionality. Future updates
+will likely focus on extending the site's functionality and making it easier to
+customize.
 
 _Version 0.0.6:_
 
