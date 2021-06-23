@@ -2,7 +2,8 @@
 
 _Current Version:_ 1.0.0
 
-# Note: The core functionality of the site has been completed. Future updates will focus on extending the template and handling any errors.
+\*\* Note: The core functionality of the site has been completed. Future updates
+will focus on extending the template and handling any errors.
 
 # Description:
 
