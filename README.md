@@ -1,6 +1,6 @@
 # Project: Next.js Landing Page
 
-_Current Version:_ 0.0.1
+_Current Version:_ 0.0.3
 
 # Description:
 
@@ -58,6 +58,12 @@ yarn dev
 ```
 
 # Version History:
+
+_Version 0.0.3_:
+
+Added Feature section and custom sectionHeader component. The section header is
+a reuseable component that can be called in other sections. This utilizes the
+DRY software development principle.
 
 _Version 0.0.2_:
 
