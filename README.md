@@ -1,6 +1,8 @@
+![Landing Page](https://github.com/IM-Deane/nextjs-landing-page/blob/assets/landing-page-main.png)
+
 # Project: Next.js Landing Page
 
-_Current Version:_ 1.0.0
+# Current Version: 1.0.0
 
 \*\* Note: The core functionality of the site has been completed. Future updates
 will focus on extending the template and handling any errors.
@@ -70,7 +72,7 @@ The footer generates the menu and copyright statement based off of the data
 provided by "footer.data.js". This enables the developer to quickly modify the
 content.
 
-# Note:
+*****_Note:_*****
 
 This version marks the end of the template's core functionality. Future updates
 will likely focus on extending the site's functionality and making it easier to
