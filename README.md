@@ -1,6 +1,6 @@
 # Project: Next.js Landing Page
 
-_Current Version:_ 0.0.4
+_Current Version:_ 0.0.5
 
 # Description:
 
@@ -58,6 +58,19 @@ yarn dev
 ```
 
 # Version History:
+
+_Version 0.0.5_:
+
+Added a features section, workflow section, and pricing section.
+
+- Features: Outlines the product/service's core features.
+
+- Workflow: For services/products that need an explanation, the workflow section
+  provides a guided outline.
+
+- Pricing: This section displays various pricing plans. For desktop, the plans
+  are aligned in a single row. For smaller devices, they are in a carousel
+  format. This enables a responsive experience.
 
 _Version 0.0.4_:
 
