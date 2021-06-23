@@ -1,6 +1,6 @@
 # Project: Next.js Landing Page
 
-_Current Version:_ 0.0.3
+_Current Version:_ 0.0.4
 
 # Description:
 
@@ -58,6 +58,13 @@ yarn dev
 ```
 
 # Version History:
+
+_Version 0.0.4_:
+
+Implemented the Services section. This section contains a list of the companies
+services as well as a video player.
+
+Note: The video player will default to a coding music playlist on youtube.
 
 _Version 0.0.3_:
 
