@@ -10,6 +10,11 @@ have a working template that can be reused in my future projects.
 
 # Features/Sections:
 
+Some of the libraries used include:
+
+- [theme.ui](https://theme-ui.com/): a library used for creating custom user
+  interfaces
+
 _Overview:_
 
 The website will be a single paged Next.js application. The fixed navbar at the

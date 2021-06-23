@@ -1,4 +1,6 @@
-const withPlugins = require('next-compose-plugins');
-const optimizedImages = require('next-optimized-images');
+// Used to install next.js plugins
 
-module.exports = withPlugins([optimizedImages], { target: 'serverless' });
+const withPlugins = require("next-compose-plugins");
+const optimizedImages = require("next-optimized-images");
+
+module.exports = withPlugins([optimizedImages], { target: "serverless" });
