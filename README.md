@@ -56,3 +56,17 @@ npm run dev
 yarn
 yarn dev
 ```
+
+# Version History:
+
+_Version 0.0.2_:
+
+Implemented the site's navbar/header. This component features a responsive
+navbar that includes a mobile side drawer.
+
+The drawer gracefully handles users with smaller devices and includes social
+media links at the bottom.
+
+_Version 0.0.1_:
+
+Implemented site's boilerplate
