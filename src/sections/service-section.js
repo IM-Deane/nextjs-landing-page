@@ -73,7 +73,7 @@ export default function ServiceSection() {
 					</Button>
 					{/* SVG shape container */}
 					<Box sx={styles.shapeBox}>
-						<Image src={shapePattern} alt="shape" />
+						<Image src={shapePattern} alt="Shape" />
 					</Box>
 				</Box>
 				<Box sx={styles.contentBox}>
