@@ -1,6 +1,6 @@
 # Project: Next.js Landing Page
 
-_Current Version:_ 0.0.5
+_Current Version:_ 0.0.6
 
 # Description:
 
@@ -59,7 +59,21 @@ yarn dev
 
 # Version History:
 
-_Version 0.0.5_:
+_Version 0.0.6:_
+
+Implemented a team member section and testimonial section.
+
+- Team members: displays the companies primary employees. It can be substituted
+  for an "About Us" section that explains the companies values. The team social
+  media accounts can also be hidden if needed.
+
+- Testimonials: displays the companies satisfied customers. This is crucial for
+  the social proof angle. If the reviews are coming from Google, then it should
+  be easy to link the reviews profile (therefore getting their details). If the
+  review was submitted in another way or there is no profile available, it might
+  be a good idea to subsitute the companies logo.
+
+_Version 0.0.5:_
 
 Added a features section, workflow section, and pricing section.
 
@@ -72,20 +86,20 @@ Added a features section, workflow section, and pricing section.
   are aligned in a single row. For smaller devices, they are in a carousel
   format. This enables a responsive experience.
 
-_Version 0.0.4_:
+_Version 0.0.4:_
 
 Implemented the Services section. This section contains a list of the companies
 services as well as a video player.
 
 Note: The video player will default to a coding music playlist on youtube.
 
-_Version 0.0.3_:
+_Version 0.0.3:_
 
 Added Feature section and custom sectionHeader component. The section header is
 a reuseable component that can be called in other sections. This utilizes the
 DRY software development principle.
 
-_Version 0.0.2_:
+_Version 0.0.2:_
 
 Implemented the site's navbar/header. This component features a responsive
 navbar that includes a mobile side drawer.
@@ -93,6 +107,6 @@ navbar that includes a mobile side drawer.
 The drawer gracefully handles users with smaller devices and includes social
 media links at the bottom.
 
-_Version 0.0.1_:
+_Version 0.0.1:_
 
 Implemented site's boilerplate
